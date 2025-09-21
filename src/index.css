@@ -1,0 +1,17 @@
+
+
+
+@font-face {
+    font-family: 'IRY';
+    src: url(./fonts/IRY.woff2) format('woff2'),
+        url(./fonts/IRY.woff) format('woff'),
+      url(./fonts/IRY.ttf)format('truetype'),
+
+}
+
+body{font-family: 'IRY'!important;
+
+}
+*{
+     font-family: 'IRY'!important;
+}
