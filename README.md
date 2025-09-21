@@ -1,3 +1,4 @@
+First npm i in terminal and then
 Run project by this command : npm run dev
 <br><br/>
 This app shows 20 location near user choice and information of them 
